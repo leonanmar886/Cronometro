@@ -8,13 +8,12 @@ O aplicativo Cronômetro é uma aplicação mobile que consiste em um contador d
 ## Layout mobile
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+## Layout
+![Image 1](https://github.com/leonanmar886/assets/blob/main/Cronometro%20Images/Screenshot_20210805-124608_Expo%20Go.jpg)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Image 2](https://github.com/leonanmar886/assets/blob/main/Cronometro%20Images/Screenshot_20210805-124645_Expo%20Go.jpg)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Image 3](https://github.com/leonanmar886/assets/blob/main/Cronometro%20Images/Screenshot_20210805-124651_Expo%20Go.jpg)
 
 # Tecnologias utilizadas
 ## Front end
